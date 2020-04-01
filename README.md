@@ -1,6 +1,6 @@
 # NCAA-Tournament-Win-Probability-Model
 
-For the project to run successfully, all the files in the "Model" file must be stored in the same R-Project folder.
+For the project to run successfully, all the files labled "Model" must be stored in the same R-Project folder.
 
   a. FinalRFile.R
 
