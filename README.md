@@ -1,6 +1,6 @@
 # NCAA-Tournament-Win-Probability-Model
 
-(Project written explanation contained in "NCAA Simulation Model" pdf)
+### (Project written explanation contained in "NCAA Simulation Model" pdf)
 
 For the project to run successfully, all the files labled "Model" must be stored in the same R-Project folder.
 
