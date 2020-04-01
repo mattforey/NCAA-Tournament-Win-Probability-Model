@@ -17,6 +17,3 @@ For the project to run successfully, all the files in the "Model" file must be s
     iv. Fourth Round – “Elite8.csv”
     v. Fifth Round – “FinalFour.csv”
     vi. Sixth Round – “Championship.csv”
-   d. Bracket.csv
-   
-    i. This file includes the results of each game of the tournament based on the model results
